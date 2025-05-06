@@ -1,4 +1,5 @@
 Identity and Access Management [IAM]:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 1: Users and Groups:
 
@@ -26,6 +27,7 @@ Step 7: Clcik on review+create and clcik on create user.
 
 Step 8: Now your "USER and GROUP" will be created.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 2: Assigning a Policy:
 
@@ -55,6 +57,7 @@ Step 7.2: If it is Visual Editor, enter the folloing:
 
 Step 7.3: Click on create policy.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 3: Enabling MFA
 
@@ -78,6 +81,7 @@ Step 4: Set up the device and fill it up the MFA1 and MFA2 code in Authapp -> Au
 
 Step 5: You create your own passkey on your device -> Passkey
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 4: Assigning Roles:
 
@@ -95,6 +99,7 @@ Step 6: Select the Role name, descrption and click on trusted policy.
 
 Step 7: Click on create.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 5: IAM Security tools:
 
