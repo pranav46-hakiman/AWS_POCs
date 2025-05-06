@@ -2,6 +2,7 @@ Identity and Access Management [IAM]:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 1: Users and Groups:
+-------------------------
 
 Step 1: Go to the AWS mgmt console in your browser and navigate to IAM> Dashboard > Acsess Management > User/Groups
 
@@ -30,6 +31,7 @@ Step 8: Now your "USER and GROUP" will be created.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 2: Assigning a Policy:
+---------------------------
 
 Step 1: Go to the AWS mgmt console in your browser and navigate to IAM > Dashboard > Acsess Management > Policy.
 
@@ -59,7 +61,8 @@ Step 7.3: Click on create policy.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Task 3: Enabling MFA
+Task 3: Enabling MFA:
+--------------------
 
 Step 1: Go to the AWS mgmt console in your browser and navigate to security creditionals which is located on top righter in your account.
 
@@ -84,6 +87,7 @@ Step 5: You create your own passkey on your device -> Passkey
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 4: Assigning Roles:
+------------------------
 
 Step 1: Go to the AWS mgmt console in your browser and navigate to IAM > Dashboard > Acsess Management > Roles
 
@@ -102,7 +106,7 @@ Step 7: Click on create.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task 5: IAM Security tools:
-
+---------------------------
 --> Credential Report:
 
 Step 1: Go to the AWS mgmt console in your browser and navigate to IAM > Dashboard > Acsess Reports> Credentials Report.
