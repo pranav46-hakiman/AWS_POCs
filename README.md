@@ -15,3 +15,13 @@ Day 1: Identity and Access Management [IAM]:
 5️⃣ Explored Security Tools — Batman could never
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 2: Elastic Compute Cloud:
+------------------------------
+
+1️⃣ Launched my first EC2 instance
+
+2️⃣ Connected via SSH
+
+3️⃣ Deployed my Feedback Form Project right from the terminal — hosted and live via EC2
+
