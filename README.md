@@ -16,7 +16,7 @@ Day 1: Identity and Access Management [IAM]:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 2: Elastic Compute Cloud:
+Day 2: Elastic Compute Cloud [EC2]:
 ------------------------------
 
 1️⃣ Launched my first EC2 instance
