@@ -38,13 +38,10 @@ Task2: Create a Security Group:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Task3: Launchan EC2 with VPC Public IP:
+Task3: Launch an EC2 with VPC Public IP:
 ---------------------------------------
 1. Create a EC2 instance
 
 2. Select the previously created VPC and a public or a private subnet based on your need.
 
-3. Also the already created SG,
-
-   
-      - 
+3. Also the already created SG.
